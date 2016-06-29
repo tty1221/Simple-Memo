@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Simple Memo</string>
+    <string name="menu_list">List of Memo</string>
+    <string name="menu_form">Edit Memo</string>
+    <string name="created_updated_text">Create/Update Date : </string>
+    <string name="action_save">SAVE</string>
+    <string name="action_delete">DELETE</string>
+    <string name="action_add">ADD</string>
+    <string name="hint_title">Title</string>
+    <string name="hint_body">Please Enter</string>
+    <string name="button_new">New Memo</string>
+    <string name="banner_ad_unit_id_test">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="banner_ad_unit_id">ca-app-pub-2087452151404066/2905989633</string>
+</resources>
